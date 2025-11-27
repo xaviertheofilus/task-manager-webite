@@ -7,6 +7,12 @@ A modern, feature-rich task management application built with Next.js, TypeScrip
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC?style=flat-square&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+
+<img width="1917" height="990" alt="Screenshot 2025-11-28 050439" src="https://github.com/user-attachments/assets/5c394449-6382-42f1-b96c-bda0f8425db2" />
+<img width="1920" height="993" alt="Screenshot 2025-11-28 050634" src="https://github.com/user-attachments/assets/034ed33f-b7eb-4103-8f0d-c6e9173d3d69" />
+<img width="1920" height="995" alt="Screenshot 2025-11-28 050658" src="https://github.com/user-attachments/assets/6f02e0a5-6e7e-4fef-b926-c751f77cec6f" />
+
+
 ## ✨ Features
 
 ### 🎯 Core Features
