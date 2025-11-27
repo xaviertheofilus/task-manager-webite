@@ -412,8 +412,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/xaviertheofilus)
+
 
 ## 🙏 Acknowledgments
 
@@ -424,9 +424,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Groq](https://groq.com/) - AI API
 - [jsPDF](https://github.com/parallax/jsPDF) - PDF generation
 
-## 📞 Support
-
-For support, email your.email@example.com or open an issue in the GitHub repository.
 
 ---
 
